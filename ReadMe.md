@@ -1,51 +1,49 @@
-💫 About Me
-
-⸻
+#💫 About Me
 
 
 <img src="assets/green_line.png" width="100%">
 
 
 👨‍💻 Currently Working On
-	•	Building my own home-lab on Debian (Kujira)
-	•	Docker experiments (multi-stage builds, infrastructure practice)
-	•	Django project (Kakeibo – personal finance app)
-	•	Python automation & backup scripts
+	- Building my own home-lab on Debian (Kujira)
+	- Docker experiments (multi-stage builds, infrastructure practice)
+	- Django project (Kakeibo – personal finance app)
+	- Python automation & backup scripts
 
 <img src="assets/whale.png" width="100%">
 
 
 🤝 Open to Collaborate On
-	•	Open-source DevOps tools
-	•	Infrastructure / Docker-based projects
-	•	Automation & scripting tools
+	- Open-source DevOps tools
+	- Infrastructure / Docker-based projects
+	- Automation & scripting tools
 
 <img src="assets/octopus.png" width="100%">
 
 
 🛠 Looking for Help With
-	•	Production-grade infrastructure patterns
-	•	Clean DevOps architecture decisions
-	•	Kubernetes (soon)
+	- Production-grade infrastructure patterns
+	- Clean DevOps architecture decisions
+	- Kubernetes (soon)
 
 <img src="assets/jellyfish.png" width="100%">
 
 
 🌱 Currently Learning
-	•	Advanced Python
-	•	Django (project architecture)
-	•	Docker & networking
-	•	DevOps fundamentals
-	•	Linux internals
+	- Advanced Python
+	- Django (project architecture)
+	- Docker & networking
+	- DevOps fundamentals
+	- Linux internals
 
 <img src="assets/sea_deep.png" width="100%">
 
 
 💬 Ask Me About
-	•	Building a home server from a laptop
-	•	Docker basics & container networking
-	•	Setting up isolated environments
-	•	Learning DevOps from scratch
+	- Building a home server from a laptop
+	- Docker basics & container networking
+	- Setting up isolated environments
+	- Learning DevOps from scratch
 
 <img src="assets/green_dot.png" width="100%">
 
