@@ -1,6 +1,58 @@
-# 💫 About Me:
-<br><br>👨‍💻 I’m currently working on<br>• Building my own home-lab on Debian (Kujira)<br>• Docker experiments (multi-stage builds, infrastructure practice)<br>• Django project (Kakeibo – personal finance app)<br>• Python automation & backup scripts<br><br>🤝 I’m looking to collaborate on<br>• Open-source DevOps tools<br>• Infrastructure / Docker based projects<br>• Automation & scripting tools<br><br>🛠 I’m looking for help with<br>• Production-grade infrastructure patterns<br>• Clean DevOps architecture decisions<br>• Kubernetes (soon)<br><br>🌱 I’m currently learning<br>• Advanced Python<br>• Django (project architecture)<br>• Docker & networking<br>• DevOps fundamentals<br>• Linux internals<br><br>💬 Ask me about<br>• Building a home server from a laptop<br>• Docker basics & container networking<br>• Setting up isolated environments<br>• Learning DevOps from scratch<br><br>⚡ Fun fact<br>• I built my own 24/7 home lab from a laptop and use it as my DevOps playground.<br><br>
+💫 About Me
 
+⸻
+
+
+<img src="assets/green_line.png" width="100%">
+
+
+👨‍💻 Currently Working On
+	•	Building my own home-lab on Debian (Kujira)
+	•	Docker experiments (multi-stage builds, infrastructure practice)
+	•	Django project (Kakeibo – personal finance app)
+	•	Python automation & backup scripts
+
+<img src="assets/whale.png" width="100%">
+
+
+🤝 Open to Collaborate On
+	•	Open-source DevOps tools
+	•	Infrastructure / Docker-based projects
+	•	Automation & scripting tools
+
+<img src="assets/octopus.png" width="100%">
+
+
+🛠 Looking for Help With
+	•	Production-grade infrastructure patterns
+	•	Clean DevOps architecture decisions
+	•	Kubernetes (soon)
+
+<img src="assets/jellyfish.png" width="100%">
+
+
+🌱 Currently Learning
+	•	Advanced Python
+	•	Django (project architecture)
+	•	Docker & networking
+	•	DevOps fundamentals
+	•	Linux internals
+
+<img src="assets/sea_deep.png" width="100%">
+
+
+💬 Ask Me About
+	•	Building a home server from a laptop
+	•	Docker basics & container networking
+	•	Setting up isolated environments
+	•	Learning DevOps from scratch
+
+<img src="assets/green_dot.png" width="100%">
+
+
+⚡ Fun Fact
+
+I built my own 24/7 home lab from a laptop and use it as my DevOps playground.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61567257463399) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-zubchenko-0a951436b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@6thomasjager9) 
